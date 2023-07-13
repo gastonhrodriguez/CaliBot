@@ -1,12 +1,39 @@
 .bpw-from-bot {
-color: rgb(53, 87, 255)
+color: rgb(53, 87, 255);
+background: #3557ff;
+background-color: #e67829;
+border-radius: 100%;
+color: var(--shark);
+color: #fff;
 } 
 
 .bpw-chat-bubble {
-color: rgb(54, 207, 112)
+color: rgb(53, 87, 255);
+background: #3557ff;
+background-color: #e67829;
+border-radius: 100%;
+color: var(--shark);
+color: #fff;
 } 
-
 
 .bpw-chat-bubble-content {
-color: rgb(235, 45, 105)
+color: rgb(53, 87, 255);
+background: #3557ff;
+background-color: #e67829;
+border-radius: 100%;
+color: var(--shark);
+color: #fff;
 } 
+
+.bpw-from-user {
+color: rgb(53, 87, 255);
+background: #3557ff;
+background-color: #e67829;
+border-radius: 100%;
+color: var(--shark);
+color: #fff;
+} 
+
+.bpw-floating-button {
+    background-image: url(https://s3.us-east-1.amazonaws.com/cloud-studio-botsbca2d619-1916w6llinepa/7fe9be1b-ea32-4405-8d6e-605a9434f8d0/media/bbfdd18c-3c27-4712-9a93-bcf4ff4894dd.png);
+}
