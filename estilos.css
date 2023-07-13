@@ -1,8 +1,8 @@
 ﻿.bpw-floating-button {
     /* Aligns the button to the right side of the container */
-    float: right;
+    float: left;
     /* Sets the fill color of the button icon */
-    fill: rgb(255, 255, 255);
+    fill: rgb(214, 24, 24);
     /* Changes the cursor to a pointer when hovering over the button */
     cursor: pointer;
     /* Removes the outline around the button when clicked */
