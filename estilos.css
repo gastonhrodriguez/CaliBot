@@ -37,7 +37,25 @@
 }
 
 
+.bpw-from-bot {
+background-color: rgb(214, 24, 24);
+background: rgb(81, 79, 201);
+color: rgb(240, 229, 24);
+}
 
+.bpw-chat-bubble {
+background-color: rgb(214, 24, 24);
+background: rgb(81, 79, 201);
+color: rgb(240, 229, 24);
+}
+
+
+
+.bpw-chat-bubble-content {
+background-color: rgb(214, 24, 24);
+background: rgb(81, 79, 201);
+color: rgb(240, 229, 24);
+}
 
 .bpw-header-container {
     /* sets the border radius of the element */
