@@ -1,3 +1,13 @@
+.bpw-from-bot .bpw-chat-bubble .bpw-chat-bubble-content {
+color: rgb(53, 87, 255);
+background: #3557ff;
+background-color: #e67829;
+border-radius: 100%;
+color: var(--shark);
+color: #fff;
+} 
+
+
 .bpw-from-bot {
 color: rgb(53, 87, 255);
 background: #3557ff;
@@ -6,6 +16,7 @@ border-radius: 100%;
 color: var(--shark);
 color: #fff;
 } 
+
 
 .bpw-chat-bubble {
 color: rgb(53, 87, 255);
